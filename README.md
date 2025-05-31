@@ -4,6 +4,9 @@ A Streamlit app showing an internal tool that lets you create, manage, and visua
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://support-tickets-template.streamlit.app/)
 
+<img width="264" alt="image" src="https://github.com/user-attachments/assets/3abad7a9-3197-4981-97bc-b4d93b41c3b8" />
+
+
 ### How to run it on your own machine
 
 <img width="264" alt="image" src="https://github.com/user-attachments/assets/4a386de2-a1e4-4dd6-bd50-a23af229e0c8" />
