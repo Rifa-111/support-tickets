@@ -9,7 +9,6 @@ A Streamlit app showing an internal tool that lets you create, manage, and visua
 
 ### How to run it on your own machine
 
-<img width="264" alt="image" src="https://github.com/user-attachments/assets/4a386de2-a1e4-4dd6-bd50-a23af229e0c8" />
 
 1. Install the requirements
 
